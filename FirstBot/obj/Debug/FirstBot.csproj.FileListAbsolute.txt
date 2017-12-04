@@ -1,0 +1,13 @@
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\bin\Debug\FirstBot.exe.config
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\bin\Debug\FirstBot.exe
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\bin\Debug\FirstBot.pdb
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\bin\Debug\WebDriver.dll
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\bin\Debug\WebDriver.Support.dll
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\bin\Debug\WebDriver.xml
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\bin\Debug\WebDriver.Support.xml
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\obj\Debug\FirstBot.csprojResolveAssemblyReference.cache
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\obj\Debug\FirstBot.Form1.resources
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\obj\Debug\FirstBot.Properties.Resources.resources
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\obj\Debug\FirstBot.csproj.GenerateResource.Cache
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\obj\Debug\FirstBot.exe
+E:\docs\Private\SeleniumBot\FirstBot\FirstBot\obj\Debug\FirstBot.pdb
